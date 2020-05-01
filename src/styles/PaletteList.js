@@ -19,7 +19,14 @@ export default {
         display: "flex",
         widht: "100%",
         justifyContent: "space-between",
-        color: "white"
+        color: "white",
+        alignItems: "center",
+        
+    },
+    newPalette: {
+        marginLeft: "24rem",
+        textDecoration: "none",
+        color:"white"
     },
     palettes: {
         boxSizing: "border-box",
