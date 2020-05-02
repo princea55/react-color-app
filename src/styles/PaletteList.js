@@ -4,7 +4,8 @@ export default {
         height: "100vh",
         display: "flex",
         alignItems: "flex-start",
-        justifyContent: "center"
+        justifyContent: "center",
+        
 
     },
     conatiner: {
@@ -17,7 +18,7 @@ export default {
     },
     nav: {
         display: "flex",
-        widht: "100%",
+        width: "100%",
         justifyContent: "space-between",
         color: "white",
         alignItems: "center",
@@ -30,7 +31,8 @@ export default {
     },
     palettes: {
         boxSizing: "border-box",
-        widht: "100%",
+        width: "100%",
+        height:"100%",
         display: "grid",
         gridTemplateColumns: "repeat(3, 30%)",
         gridGap: "5%",

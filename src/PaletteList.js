@@ -30,8 +30,6 @@ class PaletteList extends Component{
                         ))}
                     </div>
                 </div>
-                
-                
           </div>  
         );
     }
